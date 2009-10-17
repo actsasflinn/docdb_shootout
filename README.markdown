@@ -1,3 +1,14 @@
+= Spoiler Alert
+
+Tokyo Tyrant wins.
+
+  Using ruby-tokyotyrant 0.2.0
+                  user     system      total        real
+  init        0.000000   0.000000   0.000000 (  0.083591)
+  create      5.180000   0.120000   5.300000 (  7.102129)
+  query       0.000000   0.000000   0.000000 (  0.071614)
+  delete      0.000000   0.000000   0.000000 (  0.433987)
+
 = Document-oriented Database Shootout
 
 This code is part of my "Document-oriented Database Shootout" series of blog
